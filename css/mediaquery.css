@@ -1,0 +1,9 @@
+@media (max-width:100px) {
+
+  .caja{
+    
+    display: none;
+    background: black;
+    width: 100%;
+    }
+}
